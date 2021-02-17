@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name='keywords' content='WebRTC, HTML5, JavaScript' />
+		<meta name='description' content='WebRTC Video Conference App' />
+		<meta name='viewport' content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1'>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+		<script src='/js/home.js'></script>
+		<script src='/js/jquery.icalendar.min.js'></script>
+		<link rel="stylesheet" type="text/css" href="css/home.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="css/jquery.icalendar.css" media="screen" />
+		<script src="/js/datetimepicker.js"></script>
+		<link rel="stylesheet" href="/css/datetimepicker.css">
+		<title>Video Conference</title>
+	</head>
+	<body>
+	<div class="container register">
+                <div class="row">
+                    <div class="col-md-3 register-left">
+                    	<h1>Video Conference</h1>
+                    </div>
+                    <div class="col-md-9 register-right">
+                        <h3 class="text-center heading">Create a meeting</h3>
+                        <ul class="nav nav-tabs nav-justified" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Instant</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Shedule</a>
+                            </li>
+                        </ul>
+                        <h4 class="text-center heading">Meeting Link : <span id="room-link"><a id="room-url" target="_blank"></a></span></h4>
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+
+                                <div class="row register-form">
+                                    <button type="button" class="btnRegister start_meeting">Srart Meeting</button>                                   
+                                </div>
+                            </div>
+                            <div class="tab-pane fade show" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                            	<div class="row register-form">
+                                    <input type="text" class="form-control datetimepicker" placeholder="Start time *" value="" />
+                                    <div class="form-group heading">
+                                    	<h5>Remainder Type :</h5>
+                                        <div class="maxl">
+                                            <label class="radio inline"> 
+                                                <input type="radio" name="calendar" value="google" checked>
+                                                <span> Google </span> 
+                                            </label>
+                                            <label class="radio inline"> 
+                                                <input type="radio" name="calendar" value="yahoo">
+                                                <span> Yahoo </span> 
+                                            </label>
+                                        </div>
+                                    </div>
+        							<div class="icalender"></div>
+                                    <button type="button" class="btnRegister schedule">Schedule Meeting</button>                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        <script type="text/javascript">
+        	$(document).ready(function(){
+        		strat_time = '01-01-2021 00:00:00';
+        		console.log()
+        		$(".datetimepicker").datetimepicker({ format: 'd-m-Y H:i:s' });
+        		
+				$(document).on('click','.start_meeting',function(){
+					window.location.replace($('#room-url').html());
+				});
+				$(document).on('click','.schedule',function(){
+					var strat_time = $('.datetimepicker').val();
+        			var regex = new RegExp(/^([0-2]\d|3[01])-(0[1-9]|1[0-2])-\d{4} (0\d|1\d|2[0-3]):[0-5]\d:[0-5]\d$/);
+					if(regex.test(strat_time))
+					{
+						var dateIn = new Date(strat_time.split('-')[1]+'/'+strat_time.split('-')[0]+'/'+strat_time.split('-')[2]);
+						console.log(dateIn)
+				        var yyyy = dateIn.getFullYear();
+				        var mm = ((dateIn.getMonth()+1)>=10)? (dateIn.getMonth()+1) : '0' + (dateIn.getMonth()+1);
+				        var dd  = ((dateIn.getDate())>=10)? (dateIn.getDate()) : '0' + (dateIn.getDate());
+				        var dateTime = strat_time.split(" ");
+				        var timeOnly = dateTime[1].split(':');
+				        var temp = new Date(String( yyyy+'-'+mm+'-'+dd ) + " " + timeOnly);
+				        video_conference = {
+		        			start: new Date(yyyy, mm-1, dd, timeOnly[0], timeOnly[1], timeOnly[0]), 
+						    end: new Date(yyyy, mm-1, dd, parseInt(timeOnly[0])+1, timeOnly[1], timeOnly[0]), 
+						    title: 'New Meeting', 
+						    description: $('#room-url').html(), 
+						    location: ''}; 
+						$('.icalender').icalendar(video_conference);
+						if($('input[name="calendar"]:checked').val()=='google')
+						{
+							window.location.replace($( ".icalendar_list li a" ).eq(0).attr('href'));
+						}else{
+							window.location.replace($( ".icalendar_list li a" ).eq(3).attr('href'));
+						}
+						
+					}else{
+						alert('Please enter a valid date and time!');
+					}
+					
+				});
+        	})
+        	
+        </script>                   
+	</body>
+</html>

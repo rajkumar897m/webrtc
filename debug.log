@@ -1,0 +1,377 @@
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: ConfigNameSpaceChannel:/3f8dec5-7801-868a-d2b8-45bcd4c6c3db
+info: 3f8dec5-7801-868a-d2b8-45bcd4c6c3db joined first. Creates room gw7snm
+info: message:  {"type":"newparticipant","from":"3f8dec5-7801-868a-d2b8-45bcd4c6c3db"}
+info: ConfigNameSpaceChannel:/7ad0f680-bcc5-6b3e-5809-6e551df835ce
+info: 7ad0f680-bcc5-6b3e-5809-6e551df835ce joins room gw7snm
+info: message:  {"type":"newparticipant","from":"7ad0f680-bcc5-6b3e-5809-6e551df835ce"}
+info: ConfigNameSpaceChannel:/da0f67cc-7617-68e7-2eda-f163d30acd9c
+info: da0f67cc-7617-68e7-2eda-f163d30acd9c joins room gw7snm
+info: message:  {"type":"newparticipant","from":"da0f67cc-7617-68e7-2eda-f163d30acd9c"}
+info: ConfigNameSpaceChannel:/1f0c729e-7784-9b72-32aa-84fb68d910c7
+info: 1f0c729e-7784-9b72-32aa-84fb68d910c7 joins room gw7snm
+info: message:  {"type":"newparticipant","from":"1f0c729e-7784-9b72-32aa-84fb68d910c7"}
+info: message:  {"type":"bye","from":"1f0c729e-7784-9b72-32aa-84fb68d910c7"}
+info: message:  {"type":"bye","from":"da0f67cc-7617-68e7-2eda-f163d30acd9c"}
+info: message:  {"type":"bye","from":"7ad0f680-bcc5-6b3e-5809-6e551df835ce"}
+info: message:  {"type":"bye","from":"3f8dec5-7801-868a-d2b8-45bcd4c6c3db"}
+info: ConfigNameSpaceChannel:/dec1302-224b-1b7b-5a73-357b15c39827
+info: dec1302-224b-1b7b-5a73-357b15c39827 joined first. Creates room k5uisq
+info: message:  {"type":"newparticipant","from":"dec1302-224b-1b7b-5a73-357b15c39827"}
+info: ConfigNameSpaceChannel:/f349be2-1e4f-7941-52c7-b7d343a1579f
+info: f349be2-1e4f-7941-52c7-b7d343a1579f joins room k5uisq
+info: message:  {"type":"newparticipant","from":"f349be2-1e4f-7941-52c7-b7d343a1579f"}
+info: ConfigNameSpaceChannel:/be9fb019-4ecb-2358-b54a-b791788bfb62
+info: be9fb019-4ecb-2358-b54a-b791788bfb62 joins room k5uisq
+info: message:  {"type":"newparticipant","from":"be9fb019-4ecb-2358-b54a-b791788bfb62"}
+info: ConfigNameSpaceChannel:/ff621499-28f7-2c40-75ca-8089b05ac5fb
+info: ff621499-28f7-2c40-75ca-8089b05ac5fb joins room k5uisq
+info: message:  {"type":"newparticipant","from":"ff621499-28f7-2c40-75ca-8089b05ac5fb"}
+info: message:  {"type":"bye","from":"ff621499-28f7-2c40-75ca-8089b05ac5fb"}
+info: ConfigNameSpaceChannel:/42fa4319-5b0a-f46e-3162-b470fba7a8f
+info: 42fa4319-5b0a-f46e-3162-b470fba7a8f joins room k5uisq
+info: message:  {"type":"newparticipant","from":"42fa4319-5b0a-f46e-3162-b470fba7a8f"}
+info: ConfigNameSpaceChannel:/803e9c3-35a4-8246-1f68-723d1ffeff55
+info: 803e9c3-35a4-8246-1f68-723d1ffeff55 joins room k5uisq
+info: message:  {"type":"newparticipant","from":"803e9c3-35a4-8246-1f68-723d1ffeff55"}
+info: ConfigNameSpaceChannel:/7977bbe4-4ee-13c9-f1b2-abf5dceb3387
+info: 7977bbe4-4ee-13c9-f1b2-abf5dceb3387 joins room k5uisq
+info: message:  {"type":"newparticipant","from":"7977bbe4-4ee-13c9-f1b2-abf5dceb3387"}
+info: message:  {"type":"bye","from":"803e9c3-35a4-8246-1f68-723d1ffeff55"}
+info: ConfigNameSpaceChannel:/e3e53045-5dd3-b40-3101-4706712f10fe
+info: e3e53045-5dd3-b40-3101-4706712f10fe joins room k5uisq
+info: message:  {"type":"newparticipant","from":"e3e53045-5dd3-b40-3101-4706712f10fe"}
+info: message:  {"type":"bye","from":"7977bbe4-4ee-13c9-f1b2-abf5dceb3387"}
+info: message:  {"type":"bye","from":"e3e53045-5dd3-b40-3101-4706712f10fe"}
+info: ConfigNameSpaceChannel:/edbe5d5b-3f6b-6fd3-f3f2-915dd3693baa
+info: edbe5d5b-3f6b-6fd3-f3f2-915dd3693baa joins room k5uisq
+info: message:  {"type":"newparticipant","from":"edbe5d5b-3f6b-6fd3-f3f2-915dd3693baa"}
+info: ConfigNameSpaceChannel:/40b02f62-52de-95-f89-1a1c73da7173
+info: 40b02f62-52de-95-f89-1a1c73da7173 joins room k5uisq
+info: message:  {"type":"newparticipant","from":"40b02f62-52de-95-f89-1a1c73da7173"}
+info: ConfigNameSpaceChannel:/8aa2e543-6557-f68a-e23a-506577214749
+info: 8aa2e543-6557-f68a-e23a-506577214749 joins room k5uisq
+info: message:  {"type":"newparticipant","from":"8aa2e543-6557-f68a-e23a-506577214749"}
+info: message:  {"type":"bye","from":"40b02f62-52de-95-f89-1a1c73da7173"}
+info: message:  {"type":"bye","from":"42fa4319-5b0a-f46e-3162-b470fba7a8f"}
+info: message:  {"type":"bye","from":"dec1302-224b-1b7b-5a73-357b15c39827"}
+info: message:  {"type":"bye","from":"f349be2-1e4f-7941-52c7-b7d343a1579f"}
+info: message:  {"type":"bye","from":"be9fb019-4ecb-2358-b54a-b791788bfb62"}
+info: ConfigNameSpaceChannel:/1965340f-a1eb-cd1-a244-2003bed68952
+info: 1965340f-a1eb-cd1-a244-2003bed68952 joined first. Creates room gw7snm
+info: message:  {"type":"newparticipant","from":"1965340f-a1eb-cd1-a244-2003bed68952"}
+info: message:  {"type":"bye","from":"1965340f-a1eb-cd1-a244-2003bed68952"}
+info: ConfigNameSpaceChannel:/d487ae1a-d515-38dd-d43e-c752f51bc75f
+info: d487ae1a-d515-38dd-d43e-c752f51bc75f joined first. Creates room k5uisq
+info: message:  {"type":"newparticipant","from":"d487ae1a-d515-38dd-d43e-c752f51bc75f"}
+info: ConfigNameSpaceChannel:/20e0eec4-a583-47a2-a9f-c064f16589a9
+info: 20e0eec4-a583-47a2-a9f-c064f16589a9 joins room k5uisq
+info: message:  {"type":"newparticipant","from":"20e0eec4-a583-47a2-a9f-c064f16589a9"}
+info: ConfigNameSpaceChannel:/13bbebb-1278-ff79-f3b8-b126ffe0b900
+info: 13bbebb-1278-ff79-f3b8-b126ffe0b900 joins room k5uisq
+info: message:  {"type":"newparticipant","from":"13bbebb-1278-ff79-f3b8-b126ffe0b900"}
+info: message:  {"type":"bye","from":"d487ae1a-d515-38dd-d43e-c752f51bc75f"}
+info: message:  {"type":"bye","from":"20e0eec4-a583-47a2-a9f-c064f16589a9"}
+info: message:  {"type":"bye","from":"13bbebb-1278-ff79-f3b8-b126ffe0b900"}
+info: ConfigNameSpaceChannel:/429e4212-bf94-bb38-8ae3-70567860831b
+info: 429e4212-bf94-bb38-8ae3-70567860831b joined first. Creates room k5uisq
+info: message:  {"type":"newparticipant","from":"429e4212-bf94-bb38-8ae3-70567860831b"}
+info: message:  {"type":"bye","from":"429e4212-bf94-bb38-8ae3-70567860831b"}
+info: ConfigNameSpaceChannel:/587e35f1-3780-94fb-2adf-edb7da465f2a
+info: 587e35f1-3780-94fb-2adf-edb7da465f2a joined first. Creates room k5uisq
+info: message:  {"type":"newparticipant","from":"587e35f1-3780-94fb-2adf-edb7da465f2a"}
+info: message:  {"type":"bye","from":"587e35f1-3780-94fb-2adf-edb7da465f2a"}
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: ConfigNameSpaceChannel:/a138eb5a-b807-e2b5-f35-c4f67b5b4474
+info: a138eb5a-b807-e2b5-f35-c4f67b5b4474 joined first. Creates room vpd24o
+info: message:  {"type":"newparticipant","from":"a138eb5a-b807-e2b5-f35-c4f67b5b4474"}
+info: ConfigNameSpaceChannel:/26a1c6e-62f4-6aa-9fe-3bbc72c92cea
+info: 26a1c6e-62f4-6aa-9fe-3bbc72c92cea joins room vpd24o
+info: message:  {"type":"newparticipant","from":"26a1c6e-62f4-6aa-9fe-3bbc72c92cea"}
+info: ConfigNameSpaceChannel:/c8b12a0b-54b-842b-7a5a-7afa4eb222c0
+info: c8b12a0b-54b-842b-7a5a-7afa4eb222c0 joins room vpd24o
+info: message:  {"type":"newparticipant","from":"c8b12a0b-54b-842b-7a5a-7afa4eb222c0"}
+info: message:  {"type":"bye","from":"a138eb5a-b807-e2b5-f35-c4f67b5b4474"}
+info: message:  {"type":"bye","from":"26a1c6e-62f4-6aa-9fe-3bbc72c92cea"}
+info: message:  {"type":"bye","from":"c8b12a0b-54b-842b-7a5a-7afa4eb222c0"}
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: ConfigNameSpaceChannel:/6f40eb6a-5b4a-cc93-a284-1f3b9576e51
+info: 6f40eb6a-5b4a-cc93-a284-1f3b9576e51 joined first. Creates room aqlp8p
+info: message:  {"type":"newparticipant","from":"6f40eb6a-5b4a-cc93-a284-1f3b9576e51"}
+info: message:  {"type":"bye","from":"6f40eb6a-5b4a-cc93-a284-1f3b9576e51"}
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: ConfigNameSpaceChannel:/7c43c6-2fb5-39a4-1017-721eed474a28
+info: 7c43c6-2fb5-39a4-1017-721eed474a28 joined first. Creates room 123
+info: message:  {"type":"newparticipant","from":"7c43c6-2fb5-39a4-1017-721eed474a28"}
+info: ConfigNameSpaceChannel:/a5cae0b5-5818-4712-b679-9483b7994040
+info: a5cae0b5-5818-4712-b679-9483b7994040 joins room 123
+info: message:  {"type":"newparticipant","from":"a5cae0b5-5818-4712-b679-9483b7994040"}
+info: ConfigNameSpaceChannel:/7caf6df9-74d9-158a-ca3b-bb58f9d9d98c
+info: 7caf6df9-74d9-158a-ca3b-bb58f9d9d98c joins room 123
+info: message:  {"type":"newparticipant","from":"7caf6df9-74d9-158a-ca3b-bb58f9d9d98c"}
+info: message:  {"type":"bye","from":"7caf6df9-74d9-158a-ca3b-bb58f9d9d98c"}
+info: message:  {"type":"bye","from":"a5cae0b5-5818-4712-b679-9483b7994040"}
+info: message:  {"type":"bye","from":"7c43c6-2fb5-39a4-1017-721eed474a28"}
+info: ConfigNameSpaceChannel:/4c50324-4995-9505-2371-630767228888
+info: 4c50324-4995-9505-2371-630767228888 joined first. Creates room 123
+info: message:  {"type":"bye","from":"4c50324-4995-9505-2371-630767228888"}
+info: ConfigNameSpaceChannel:/aff04f9b-5c76-9cc3-97e1-4eaf21ef69b9
+info: aff04f9b-5c76-9cc3-97e1-4eaf21ef69b9 joined first. Creates room e8nblh
+info: message:  {"type":"newparticipant","from":"aff04f9b-5c76-9cc3-97e1-4eaf21ef69b9"}
+info: message:  {"type":"bye","from":"aff04f9b-5c76-9cc3-97e1-4eaf21ef69b9"}
+info: ConfigNameSpaceChannel:/3b37a3b5-cb3f-e25c-b72a-37f53566c5c
+info: 3b37a3b5-cb3f-e25c-b72a-37f53566c5c joined first. Creates room gk9mt0
+info: message:  {"type":"newparticipant","from":"3b37a3b5-cb3f-e25c-b72a-37f53566c5c"}
+info: message:  {"type":"bye","from":"3b37a3b5-cb3f-e25c-b72a-37f53566c5c"}
+info: ConfigNameSpaceChannel:/9688315b-d90-c69-59b8-48397ba92c25
+info: 9688315b-d90-c69-59b8-48397ba92c25 joined first. Creates room 123
+info: message:  {"type":"newparticipant","from":"9688315b-d90-c69-59b8-48397ba92c25"}
+info: message:  {"type":"bye","from":"9688315b-d90-c69-59b8-48397ba92c25"}
+info: ConfigNameSpaceChannel:/232a1915-4522-664d-7874-8fe06b2911a
+info: 232a1915-4522-664d-7874-8fe06b2911a joined first. Creates room 123
+info: message:  {"type":"newparticipant","from":"232a1915-4522-664d-7874-8fe06b2911a"}
+info: message:  {"type":"bye","from":"232a1915-4522-664d-7874-8fe06b2911a"}
+info: ConfigNameSpaceChannel:/edf729db-727b-d544-85e9-fa7d74fba4db
+info: edf729db-727b-d544-85e9-fa7d74fba4db joined first. Creates room 123
+info: message:  {"type":"newparticipant","from":"edf729db-727b-d544-85e9-fa7d74fba4db"}
+info: message:  {"type":"bye","from":"edf729db-727b-d544-85e9-fa7d74fba4db"}
+info: ConfigNameSpaceChannel:/47ff4a16-b4e9-a17b-6cae-c5b111d832e1
+info: 47ff4a16-b4e9-a17b-6cae-c5b111d832e1 joined first. Creates room 7e27nr
+info: message:  {"type":"newparticipant","from":"47ff4a16-b4e9-a17b-6cae-c5b111d832e1"}
+info: message:  {"type":"bye","from":"47ff4a16-b4e9-a17b-6cae-c5b111d832e1"}
+info: ConfigNameSpaceChannel:/b3b8ca5a-86d7-2dce-777a-eac082d8cc91
+info: b3b8ca5a-86d7-2dce-777a-eac082d8cc91 joined first. Creates room 7e27nr
+info: message:  {"type":"newparticipant","from":"b3b8ca5a-86d7-2dce-777a-eac082d8cc91"}
+info: message:  {"type":"bye","from":"b3b8ca5a-86d7-2dce-777a-eac082d8cc91"}
+info: ConfigNameSpaceChannel:/a70032b4-ad2b-18a7-8b57-17432c9c27
+info: a70032b4-ad2b-18a7-8b57-17432c9c27 joined first. Creates room 7e27nr
+info: message:  {"type":"newparticipant","from":"a70032b4-ad2b-18a7-8b57-17432c9c27"}
+info: message:  {"type":"bye","from":"a70032b4-ad2b-18a7-8b57-17432c9c27"}
+info: ConfigNameSpaceChannel:/7b927594-30e1-2236-6312-8198c2d2d86a
+info: 7b927594-30e1-2236-6312-8198c2d2d86a joined first. Creates room 7e27nr
+info: message:  {"type":"newparticipant","from":"7b927594-30e1-2236-6312-8198c2d2d86a"}
+info: message:  {"type":"bye","from":"7b927594-30e1-2236-6312-8198c2d2d86a"}
+info: ConfigNameSpaceChannel:/daa2de9c-6ae7-80ed-c1e3-e5da98ed1cfb
+info: daa2de9c-6ae7-80ed-c1e3-e5da98ed1cfb joined first. Creates room 123
+info: message:  {"type":"newparticipant","from":"daa2de9c-6ae7-80ed-c1e3-e5da98ed1cfb"}
+info: message:  {"type":"bye","from":"daa2de9c-6ae7-80ed-c1e3-e5da98ed1cfb"}
+info: ConfigNameSpaceChannel:/6c844e0a-f674-c8bd-45c6-b232801e7a0d
+info: 6c844e0a-f674-c8bd-45c6-b232801e7a0d joined first. Creates room 123
+info: message:  {"type":"newparticipant","from":"6c844e0a-f674-c8bd-45c6-b232801e7a0d"}
+info: message:  {"type":"bye","from":"6c844e0a-f674-c8bd-45c6-b232801e7a0d"}
+info: ConfigNameSpaceChannel:/d7e0fa-3392-4f6e-8ed0-ec8779d988b6
+info: d7e0fa-3392-4f6e-8ed0-ec8779d988b6 joined first. Creates room 123
+info: message:  {"type":"newparticipant","from":"d7e0fa-3392-4f6e-8ed0-ec8779d988b6"}
+info: message:  {"type":"bye","from":"d7e0fa-3392-4f6e-8ed0-ec8779d988b6"}
+info: ConfigNameSpaceChannel:/91255bae-fa15-6efe-acb7-ebcfbf945d0c
+info: 91255bae-fa15-6efe-acb7-ebcfbf945d0c joined first. Creates room yqvk09
+info: message:  {"type":"newparticipant","from":"91255bae-fa15-6efe-acb7-ebcfbf945d0c"}
+info: message:  {"type":"bye","from":"91255bae-fa15-6efe-acb7-ebcfbf945d0c"}
+info: ConfigNameSpaceChannel:/fa55e553-f2f8-e28f-254d-e5d1505d66
+info: fa55e553-f2f8-e28f-254d-e5d1505d66 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"fa55e553-f2f8-e28f-254d-e5d1505d66"}
+info: message:  {"type":"bye","from":"fa55e553-f2f8-e28f-254d-e5d1505d66"}
+info: ConfigNameSpaceChannel:/b484eef5-f1f1-fc6-c5da-1479d3eb1ff0
+info: b484eef5-f1f1-fc6-c5da-1479d3eb1ff0 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"b484eef5-f1f1-fc6-c5da-1479d3eb1ff0"}
+info: message:  {"type":"bye","from":"b484eef5-f1f1-fc6-c5da-1479d3eb1ff0"}
+info: ConfigNameSpaceChannel:/27feb88a-1bf7-212a-3880-e4e6704cc00b
+info: 27feb88a-1bf7-212a-3880-e4e6704cc00b joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"27feb88a-1bf7-212a-3880-e4e6704cc00b"}
+info: message:  {"type":"bye","from":"27feb88a-1bf7-212a-3880-e4e6704cc00b"}
+info: ConfigNameSpaceChannel:/488c13a-448f-e978-a23b-ec4cbd2adc9f
+info: 488c13a-448f-e978-a23b-ec4cbd2adc9f joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"488c13a-448f-e978-a23b-ec4cbd2adc9f"}
+info: ConfigNameSpaceChannel:/d8302f8d-2175-7097-e02e-7f0b14da8803
+info: d8302f8d-2175-7097-e02e-7f0b14da8803 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"d8302f8d-2175-7097-e02e-7f0b14da8803"}
+info: ConfigNameSpaceChannel:/d26b1bf0-103d-4075-51d8-2c6080815b3
+info: d26b1bf0-103d-4075-51d8-2c6080815b3 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"d26b1bf0-103d-4075-51d8-2c6080815b3"}
+info: ConfigNameSpaceChannel:/b853f36c-8348-68a2-5892-58d9cef2a225
+info: b853f36c-8348-68a2-5892-58d9cef2a225 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"b853f36c-8348-68a2-5892-58d9cef2a225"}
+info: ConfigNameSpaceChannel:/bb91252-4ab-c771-3121-594d26bb9637
+info: bb91252-4ab-c771-3121-594d26bb9637 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"bb91252-4ab-c771-3121-594d26bb9637"}
+info: ConfigNameSpaceChannel:/aa536571-b7ac-bd50-7f03-8a7c3cb893d1
+info: aa536571-b7ac-bd50-7f03-8a7c3cb893d1 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"aa536571-b7ac-bd50-7f03-8a7c3cb893d1"}
+info: ConfigNameSpaceChannel:/2c42ad62-5f09-7446-2225-f3ba23ae6b83
+info: 2c42ad62-5f09-7446-2225-f3ba23ae6b83 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"2c42ad62-5f09-7446-2225-f3ba23ae6b83"}
+info: ConfigNameSpaceChannel:/f17d3f37-8ef0-b9c3-72a1-f540b36c22d3
+info: f17d3f37-8ef0-b9c3-72a1-f540b36c22d3 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"f17d3f37-8ef0-b9c3-72a1-f540b36c22d3"}
+info: ConfigNameSpaceChannel:/eaefb144-53a0-12f4-e29b-b0e4c1b84199
+info: eaefb144-53a0-12f4-e29b-b0e4c1b84199 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"eaefb144-53a0-12f4-e29b-b0e4c1b84199"}
+info: message:  {"type":"bye","from":"2c42ad62-5f09-7446-2225-f3ba23ae6b83"}
+info: message:  {"type":"bye","from":"f17d3f37-8ef0-b9c3-72a1-f540b36c22d3"}
+info: message:  {"type":"bye","from":"eaefb144-53a0-12f4-e29b-b0e4c1b84199"}
+info: message:  {"type":"bye","from":"aa536571-b7ac-bd50-7f03-8a7c3cb893d1"}
+info: message:  {"type":"bye","from":"bb91252-4ab-c771-3121-594d26bb9637"}
+info: message:  {"type":"bye","from":"b853f36c-8348-68a2-5892-58d9cef2a225"}
+info: message:  {"type":"bye","from":"d26b1bf0-103d-4075-51d8-2c6080815b3"}
+info: message:  {"type":"bye","from":"d8302f8d-2175-7097-e02e-7f0b14da8803"}
+info: message:  {"type":"bye","from":"488c13a-448f-e978-a23b-ec4cbd2adc9f"}
+info: ConfigNameSpaceChannel:/cde9b1ad-2d93-a4aa-6132-eb44948f96a
+info: cde9b1ad-2d93-a4aa-6132-eb44948f96a joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"cde9b1ad-2d93-a4aa-6132-eb44948f96a"}
+info: message:  {"type":"bye","from":"cde9b1ad-2d93-a4aa-6132-eb44948f96a"}
+info: ConfigNameSpaceChannel:/769d931e-a486-8172-1d91-7d61d0c8a095
+info: 769d931e-a486-8172-1d91-7d61d0c8a095 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"769d931e-a486-8172-1d91-7d61d0c8a095"}
+info: message:  {"type":"bye","from":"769d931e-a486-8172-1d91-7d61d0c8a095"}
+info: ConfigNameSpaceChannel:/19d3e112-5996-6441-5a11-b974a675388
+info: 19d3e112-5996-6441-5a11-b974a675388 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"19d3e112-5996-6441-5a11-b974a675388"}
+info: message:  {"type":"bye","from":"19d3e112-5996-6441-5a11-b974a675388"}
+info: ConfigNameSpaceChannel:/4d6261f-3004-901d-e3d2-86e91ab6ccc8
+info: 4d6261f-3004-901d-e3d2-86e91ab6ccc8 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"4d6261f-3004-901d-e3d2-86e91ab6ccc8"}
+info: message:  {"type":"bye","from":"4d6261f-3004-901d-e3d2-86e91ab6ccc8"}
+info: ConfigNameSpaceChannel:/ca9c42de-a570-5062-9533-728a8947a6dd
+info: ca9c42de-a570-5062-9533-728a8947a6dd joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"ca9c42de-a570-5062-9533-728a8947a6dd"}
+info: message:  {"type":"bye","from":"ca9c42de-a570-5062-9533-728a8947a6dd"}
+info: ConfigNameSpaceChannel:/c058c70c-e716-60b0-a821-a35bb6378c04
+info: c058c70c-e716-60b0-a821-a35bb6378c04 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"c058c70c-e716-60b0-a821-a35bb6378c04"}
+info: message:  {"type":"bye","from":"c058c70c-e716-60b0-a821-a35bb6378c04"}
+info: ConfigNameSpaceChannel:/2efd1e0e-34a9-2605-6735-4f036da74e75
+info: 2efd1e0e-34a9-2605-6735-4f036da74e75 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"2efd1e0e-34a9-2605-6735-4f036da74e75"}
+info: message:  {"type":"bye","from":"2efd1e0e-34a9-2605-6735-4f036da74e75"}
+info: ConfigNameSpaceChannel:/dd392b1c-509f-22eb-fe7e-9570eff21b9b
+info: dd392b1c-509f-22eb-fe7e-9570eff21b9b joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"dd392b1c-509f-22eb-fe7e-9570eff21b9b"}
+info: message:  {"type":"bye","from":"dd392b1c-509f-22eb-fe7e-9570eff21b9b"}
+info: ConfigNameSpaceChannel:/2fe4cd42-3d24-f4bc-7eba-d5f7d7c271bd
+info: 2fe4cd42-3d24-f4bc-7eba-d5f7d7c271bd joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"2fe4cd42-3d24-f4bc-7eba-d5f7d7c271bd"}
+info: message:  {"type":"bye","from":"2fe4cd42-3d24-f4bc-7eba-d5f7d7c271bd"}
+info: ConfigNameSpaceChannel:/503f9529-5aff-a13b-8322-7cb92cf9c6fe
+info: 503f9529-5aff-a13b-8322-7cb92cf9c6fe joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"503f9529-5aff-a13b-8322-7cb92cf9c6fe"}
+info: message:  {"type":"bye","from":"503f9529-5aff-a13b-8322-7cb92cf9c6fe"}
+info: ConfigNameSpaceChannel:/8bf7c9c2-844d-42ef-4129-242b8b7ff893
+info: 8bf7c9c2-844d-42ef-4129-242b8b7ff893 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"8bf7c9c2-844d-42ef-4129-242b8b7ff893"}
+info: message:  {"type":"bye","from":"8bf7c9c2-844d-42ef-4129-242b8b7ff893"}
+info: ConfigNameSpaceChannel:/2950b30d-837d-2268-f683-d7dca649e204
+info: 2950b30d-837d-2268-f683-d7dca649e204 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"2950b30d-837d-2268-f683-d7dca649e204"}
+info: message:  {"type":"bye","from":"2950b30d-837d-2268-f683-d7dca649e204"}
+info: ConfigNameSpaceChannel:/2d23d92d-abc2-e82c-116c-77c166ee825
+info: 2d23d92d-abc2-e82c-116c-77c166ee825 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"2d23d92d-abc2-e82c-116c-77c166ee825"}
+info: message:  {"type":"bye","from":"2d23d92d-abc2-e82c-116c-77c166ee825"}
+info: ConfigNameSpaceChannel:/c831666b-da5f-9d3-b6e3-ec59cfe0f54
+info: c831666b-da5f-9d3-b6e3-ec59cfe0f54 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"c831666b-da5f-9d3-b6e3-ec59cfe0f54"}
+info: message:  {"type":"bye","from":"c831666b-da5f-9d3-b6e3-ec59cfe0f54"}
+info: ConfigNameSpaceChannel:/8b4f1462-e394-bf54-e147-1666bbd67a8b
+info: 8b4f1462-e394-bf54-e147-1666bbd67a8b joined first. Creates room ilx4tt
+info: message:  {"type":"bye","from":"8b4f1462-e394-bf54-e147-1666bbd67a8b"}
+info: ConfigNameSpaceChannel:/d03fbcb-ae63-ea59-17b9-5f63b9daa09b
+info: d03fbcb-ae63-ea59-17b9-5f63b9daa09b joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"d03fbcb-ae63-ea59-17b9-5f63b9daa09b"}
+info: message:  {"type":"bye","from":"d03fbcb-ae63-ea59-17b9-5f63b9daa09b"}
+info: ConfigNameSpaceChannel:/d8ffa698-26eb-9a52-dfbb-a45e9fbb42f4
+info: d8ffa698-26eb-9a52-dfbb-a45e9fbb42f4 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"d8ffa698-26eb-9a52-dfbb-a45e9fbb42f4"}
+info: message:  {"type":"bye","from":"d8ffa698-26eb-9a52-dfbb-a45e9fbb42f4"}
+info: ConfigNameSpaceChannel:/3aa2eb4c-5479-63fd-c3a4-f32de4e13731
+info: 3aa2eb4c-5479-63fd-c3a4-f32de4e13731 joined first. Creates room ilx4tt
+info: message:  {"type":"bye","from":"3aa2eb4c-5479-63fd-c3a4-f32de4e13731"}
+info: ConfigNameSpaceChannel:/4bb84c3-1760-fbe8-7079-6f5587bbb58a
+info: 4bb84c3-1760-fbe8-7079-6f5587bbb58a joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"4bb84c3-1760-fbe8-7079-6f5587bbb58a"}
+info: message:  {"type":"bye","from":"4bb84c3-1760-fbe8-7079-6f5587bbb58a"}
+info: ConfigNameSpaceChannel:/2601a3a-6022-e452-40bb-e0ffd348c176
+info: 2601a3a-6022-e452-40bb-e0ffd348c176 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"2601a3a-6022-e452-40bb-e0ffd348c176"}
+info: message:  {"type":"bye","from":"2601a3a-6022-e452-40bb-e0ffd348c176"}
+info: ConfigNameSpaceChannel:/147284b6-e7d6-b845-3aa7-aad75cf5214b
+info: 147284b6-e7d6-b845-3aa7-aad75cf5214b joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"147284b6-e7d6-b845-3aa7-aad75cf5214b"}
+info: message:  {"type":"bye","from":"147284b6-e7d6-b845-3aa7-aad75cf5214b"}
+info: ConfigNameSpaceChannel:/fe4552c1-a46a-4f8e-da4b-f0a5173a90a5
+info: fe4552c1-a46a-4f8e-da4b-f0a5173a90a5 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"fe4552c1-a46a-4f8e-da4b-f0a5173a90a5"}
+info: message:  {"type":"bye","from":"fe4552c1-a46a-4f8e-da4b-f0a5173a90a5"}
+info: ConfigNameSpaceChannel:/67a2df60-88e7-a774-a7d3-26af85aff46d
+info: 67a2df60-88e7-a774-a7d3-26af85aff46d joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"67a2df60-88e7-a774-a7d3-26af85aff46d"}
+info: ConfigNameSpaceChannel:/87422c4d-76cc-9d71-b4f2-4fb159446c9b
+info: 87422c4d-76cc-9d71-b4f2-4fb159446c9b joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"87422c4d-76cc-9d71-b4f2-4fb159446c9b"}
+info: ConfigNameSpaceChannel:/7bcce6aa-ad00-f2d6-6264-6e27f191e88
+info: 7bcce6aa-ad00-f2d6-6264-6e27f191e88 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"7bcce6aa-ad00-f2d6-6264-6e27f191e88"}
+info: message:  {"type":"bye","from":"87422c4d-76cc-9d71-b4f2-4fb159446c9b"}
+info: message:  {"type":"bye","from":"7bcce6aa-ad00-f2d6-6264-6e27f191e88"}
+info: ConfigNameSpaceChannel:/992dbb4a-f409-b392-16e3-231de3d47b20
+info: 992dbb4a-f409-b392-16e3-231de3d47b20 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"992dbb4a-f409-b392-16e3-231de3d47b20"}
+info: ConfigNameSpaceChannel:/95365b0b-8135-2a8d-3a51-b4b1ba085447
+info: 95365b0b-8135-2a8d-3a51-b4b1ba085447 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"95365b0b-8135-2a8d-3a51-b4b1ba085447"}
+info: message:  {"type":"bye","from":"95365b0b-8135-2a8d-3a51-b4b1ba085447"}
+info: message:  {"type":"bye","from":"992dbb4a-f409-b392-16e3-231de3d47b20"}
+info: ConfigNameSpaceChannel:/e88c7874-1082-37de-de93-2ff55c49a65d
+info: e88c7874-1082-37de-de93-2ff55c49a65d joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"e88c7874-1082-37de-de93-2ff55c49a65d"}
+info: ConfigNameSpaceChannel:/1dd946c0-5557-2f41-d021-72082e772bf5
+info: 1dd946c0-5557-2f41-d021-72082e772bf5 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"1dd946c0-5557-2f41-d021-72082e772bf5"}
+info: ConfigNameSpaceChannel:/3d1ee25b-2dc7-49be-ce44-8f0b513bb770
+info: 3d1ee25b-2dc7-49be-ce44-8f0b513bb770 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"3d1ee25b-2dc7-49be-ce44-8f0b513bb770"}
+info: message:  {"type":"bye","from":"67a2df60-88e7-a774-a7d3-26af85aff46d"}
+info: ConfigNameSpaceChannel:/90a81758-41bd-e0cd-85a3-fe09a3581033
+info: 90a81758-41bd-e0cd-85a3-fe09a3581033 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"90a81758-41bd-e0cd-85a3-fe09a3581033"}
+info: message:  {"type":"bye","from":"e88c7874-1082-37de-de93-2ff55c49a65d"}
+info: ConfigNameSpaceChannel:/5f0c6be-783d-623d-ca33-b633460de0ac
+info: 5f0c6be-783d-623d-ca33-b633460de0ac joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"5f0c6be-783d-623d-ca33-b633460de0ac"}
+info: message:  {"type":"bye","from":"1dd946c0-5557-2f41-d021-72082e772bf5"}
+info: ConfigNameSpaceChannel:/167dc22f-3393-3a65-5e73-c4e57b6ca14
+info: 167dc22f-3393-3a65-5e73-c4e57b6ca14 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"167dc22f-3393-3a65-5e73-c4e57b6ca14"}
+info: message:  {"type":"bye","from":"3d1ee25b-2dc7-49be-ce44-8f0b513bb770"}
+info: ConfigNameSpaceChannel:/fb22b330-a3e7-170a-eeaa-912a8b975bf6
+info: fb22b330-a3e7-170a-eeaa-912a8b975bf6 joins room ilx4tt
+info: message:  {"type":"newparticipant","from":"fb22b330-a3e7-170a-eeaa-912a8b975bf6"}
+info: message:  {"type":"bye","from":"5f0c6be-783d-623d-ca33-b633460de0ac"}
+info: message:  {"type":"bye","from":"167dc22f-3393-3a65-5e73-c4e57b6ca14"}
+info: message:  {"type":"bye","from":"fb22b330-a3e7-170a-eeaa-912a8b975bf6"}
+info: message:  {"type":"bye","from":"90a81758-41bd-e0cd-85a3-fe09a3581033"}
+info: ConfigNameSpaceChannel:/4df5f9d5-c9ea-7e0b-fe18-5cb8d9e32811
+info: 4df5f9d5-c9ea-7e0b-fe18-5cb8d9e32811 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"4df5f9d5-c9ea-7e0b-fe18-5cb8d9e32811"}
+info: message:  {"type":"bye","from":"4df5f9d5-c9ea-7e0b-fe18-5cb8d9e32811"}
+info: ConfigNameSpaceChannel:/b779c811-ed56-2f1d-4741-b79fba43e505
+info: b779c811-ed56-2f1d-4741-b79fba43e505 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"b779c811-ed56-2f1d-4741-b79fba43e505"}
+info: message:  {"type":"bye","from":"b779c811-ed56-2f1d-4741-b79fba43e505"}
+info: ConfigNameSpaceChannel:/28aa86d5-f09c-4ab4-ce90-4b4d8fc1ecf0
+info: 28aa86d5-f09c-4ab4-ce90-4b4d8fc1ecf0 joined first. Creates room ilx4tt
+info: message:  {"type":"newparticipant","from":"28aa86d5-f09c-4ab4-ce90-4b4d8fc1ecf0"}
+info: message:  {"type":"bye","from":"28aa86d5-f09c-4ab4-ce90-4b4d8fc1ecf0"}

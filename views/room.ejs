@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name='description' content='WebRTC Reference App' />
+	<meta name='viewport' content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1'>
+	<script>var HOST_ADDRESS = '<%= hostAddress %>';</script>
+	<script src='/socket.io/socket.io.js'></script>
+	<script src='/js/lib/adapter.js'></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src='/js/meeting.js'></script>
+	<script src='/js/room.js'></script>
+	<link rel="stylesheet" type="text/css" href="/css/room.css" media="screen" />
+	<title>Video Conference</title>
+</head>
+
+<body>
+	<header>
+		<h1>Video Conference</h1>
+	</header>
+	<div class="meeting_details">
+		<h3>Meeting Link : <a id="url" href="#"></a></h3>
+		<p>Send this link to anyone you wish to invite.</p>
+	</div>
+	<div class="container">
+		
+		<div id="videos">
+			<div id="videosWrapper">
+				<div id="localVideoWrap" class='videoWrap'>
+					<video class="videoBox" id="localVideo" autoplay></video>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer></footer>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			var url = window.location.href;
+			$('#url').html(url);
+			$('#url').attr('href',url);
+		});
+	</script>
+</body>
+
+</html>
